@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate web developer living in Aalborg, Denmark</h3>
+<h3 align="center">A passionate techie living in Aalborg, Denmark</h3>
 
 - 🔭 I’m currently working on **Reaktly**
 
