@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate techie living in Aalborg, Denmark</h3>
-
-I am currently working on an internal phone-system project with E-Komplet using Vue and ASP.NET, and **Reaktly** in my spare time.
+<h3 align="center">A guy living in Aalborg, Denmark</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
